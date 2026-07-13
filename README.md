@@ -1,6 +1,6 @@
 # 🍽️ Restaurant Menu Card
 
-A responsive restaurant menu web app built using **HTML, CSS, and vanilla JavaScript**. Users can browse menu items, adjust item quantities, and place an order with instant confirmation feedback — all without any external libraries or frameworks.
+A responsive restaurant menu web app built using **HTML, CSS, and JavaScript**. Users can browse menu items, adjust item quantities, and place an order with instant confirmation feedback — all without any external libraries or frameworks.
 
 ## 🔗 Live Demo
 [Add your live demo link here, if deployed]
@@ -30,9 +30,9 @@ A responsive restaurant menu web app built using **HTML, CSS, and vanilla JavaSc
 
 ## 🛠️ Built With
 
-- **HTML5** – Semantic page structure
-- **CSS3** – Styling, layout, and responsiveness (Flexbox/Grid)
-- **JavaScript (Vanilla)** – DOM manipulation, quantity logic, and order handling
+- HTML
+- CSS
+- JavaScript
 
 ## 📂 Project Structure
 Restaurant-Menu-Card/
@@ -65,7 +65,7 @@ To run this project locally:
 ## 📖 What I Learned
 
 Building this project helped me strengthen my understanding of:
-- DOM manipulation and event handling in vanilla JavaScript
+- DOM manipulation and event handling in JavaScript
 - Managing dynamic state (quantities, totals) without a framework
 - Structuring a multi-file frontend project cleanly
 - Writing responsive CSS layouts for real-world UI components
